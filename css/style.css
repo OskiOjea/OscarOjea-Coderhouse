@@ -840,3 +840,38 @@ VISTA TABLET
 	}
 }
   
+
+
+/* NUEVA PAGINA DE CONTACTO -- PRUEBA EN PROGESO */
+
+.grid-layout-contact{
+    display: grid;
+    grid-template-columns: 250px 500px;
+    grid-template-rows: auto;
+    justify-content:center;
+    width: 100%;
+    margin: 0 auto;
+    padding: 140px;
+    background: rgb(240, 239, 239);
+}
+
+.caja-contact{
+    grid-column-start:auto;
+    border: 1px solid black;
+    line-break: auto;
+    line-height: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+
+}
+
+.caja-contact{
+    display: inline-block;
+    justify-content: center;
+    align-items:center;
+    margin: 10px;
+    padding: 10px;
+    background:transparent;
+    color: rgb(89, 86, 86);
+
+}
