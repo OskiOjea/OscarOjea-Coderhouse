@@ -25,6 +25,11 @@ strong{
 	color: #0090b8;
 }
 
+a{
+	text-decoration: none;
+	color: darkred;
+}
+
 /*ESTILOS DEL CUERPO PRINCIPAL QUE QUIERO QUE SE APLIQUEN A TODAS PAGINAS DEL SITE*/
 body{
     background-color: rgb(237, 236, 236);
